@@ -1,4 +1,4 @@
-maatplotlib
+matplotlib
 numpy
 opencv-python
 openpyxl
