@@ -1,0 +1,17 @@
+maatplotlib
+numpy
+opencv-python
+openpyxl
+openssl
+pandas
+pillow
+pip
+plotly
+scikit-learn
+scipy
+seaborn
+streamlit
+torch
+torchvision
+xgboost
+ultralytics
